@@ -7,3 +7,7 @@ def print_user_greeting(name)
 end 
 
 print_user_greeting(name)
+
+10.times do
+  puts name
+end
