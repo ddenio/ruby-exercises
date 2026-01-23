@@ -1,3 +1,4 @@
+puts "What is your name?"
 name = gets.chomp
 
 def print_user_greeting(name)
